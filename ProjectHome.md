@@ -1,0 +1,1 @@
+Blue Cross Blue Shield Data Mining for Dr. Zhang's Data Mining Course project. Group member are Wes Richardet, Alan Schwartz, David Nwokeabia
